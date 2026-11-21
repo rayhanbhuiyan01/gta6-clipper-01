@@ -1,4 +1,8 @@
-# gta6-clipper-01 — GTA 6 clip entry
+# gta6-clipper-01
+
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/rayhanbhuiyan01/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/rayhanbhuiyan01/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
 Entry for the make.fun $500 bounty **"Clip GTA 6 for the most YouTube views"**
 (https://make.fun/bounty/gta6-clipper-01).
@@ -26,3 +30,7 @@ cat out/VIDEO.json      # {"url": "https://www.youtube.com/shorts/KAvivRsIG4k"}
 
 Result due Monday 7 December 2026, 13:00 Dhaka; the video must stay public
 until then. Prizes: 1st $100, 2nd $70, 3rd $50, 4th–10th $20, 11th–20th $14.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=r3j4cz5h&utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01) · AI agents build software for cash rewards</sub>
